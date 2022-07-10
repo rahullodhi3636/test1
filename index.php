@@ -13,6 +13,6 @@ $solution = new Solution();
 $output = $solution->subsets($nums);
 $new = array_merge($output,$nums);
 
-//commit on master
+//commit on first on master
 
 print_r($new);
