@@ -13,6 +13,6 @@ $solution = new Solution();
 $output = $solution->subsets($nums);
 $new = array_merge($output,$nums);
 
-//commit on first on development branch dddddddd
+//commit on first on development branch ddddd
 
 print_r($new);
